@@ -61,7 +61,7 @@ export const faqData = [
     {
         id: 9,
         question: "How do I reach IIIT Una campus?",
-        answer: "IIIT Una is located in Saloh, Himachal Pradesh. The nearest railway station is Una Himachal and there is good connectivity by road from Chandigarh.For Details please check Contact us page."
+        answer: "IIIT Una is located in Saloh, Himachal Pradesh. The nearest railway station is Una Himachal and there is good connectivity by road from Chandigarh. For Details please check Contact us page."
     },
     {
         id: 10,
